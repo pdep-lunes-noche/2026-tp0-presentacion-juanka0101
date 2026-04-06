@@ -1,1 +1,18 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/b3l8vQxo)
+## Sobre mi
+
+Buenas mi nombre es **Juan Carlos Duran** tengo **29 años** y soy de *CABA*.
+
+
+Esta es la 3 vez que curso la materia (y espero que ultima) y mi principal objetivo de este año es aprovarla junto con todo el resto de las materias de 2do año.
+
+<p aling="center">
+  <img src="FOTO PERFIL.png" width="250" height="250"/>
+</p>
+
+>Legajo: **159.339-0**
+
+### Intereses 
+  * Boca
+  * voley
+  * Cocina
+  * rock
